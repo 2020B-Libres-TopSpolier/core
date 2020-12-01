@@ -1,0 +1,2 @@
+# core
+Aplicación Web
